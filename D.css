@@ -1,0 +1,19 @@
+h2{
+    color: rgb(255, 0, 128);
+}
+marquee{
+    color: rgb(0, 255, 195);
+}
+h1{
+    color: blue;
+}
+tr{
+    border-color: blue;
+}
+td{
+    color: darkgoldenrod;
+}
+th{
+    border-width: 5ch;
+    color: darkturquoise;
+}
